@@ -33,10 +33,6 @@ This repository serves as:
 - A/B testing framework understanding
 - Executive reporting and recommendations
 
-## Current Projects
-
-### 1. Online Retail Analytics
-Comprehensive analysis of e-commerce transaction data including customer behavior, segmentation, and sales forecasting.
 
 ## Why This Repository
 
