@@ -4,7 +4,7 @@ Hi, this repository is dedicated to my development in product analytics...
 
 ## About Me
 
-I am an aspiring Product Analyst with strong skills in Python, SQL, and data visualization. This repository showcases my journey in mastering product analytics through hands-on projects. I am passionate about turning raw data into actionable business insights and continuously improving my analytical toolkit.
+I am an aspiring Product Analyst with strong skills in Python, SQL, and data visualization. This repository showcases my journey in mastering product analytics through hands-on projects.
 
 ## Repository Purpose
 
