@@ -20,7 +20,7 @@ This repository serves as:
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - SQL querying and database management
 - Statistical analysis and hypothesis testing
-- Machine learning for customer segmentation
+- Machine learning
 - Time series forecasting
 - Data visualization and storytelling
 
